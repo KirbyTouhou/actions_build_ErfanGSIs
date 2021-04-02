@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cdn-test-othttps://cdn-test-ota.blackshark.com/DLT-A0/20210113131649-darklighter-ota-signed_by_xiaomi_fdbf72edf61debce16abab51e1f13d28.zip
+  ROM_URL: https://cdn-test-ota.blackshark.com/DLT-A0/20210113131649-darklighter-ota-signed_by_xiaomi_fdbf72edf61debce16abab51e1f13d28.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
